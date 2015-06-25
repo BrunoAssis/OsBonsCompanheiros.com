@@ -1,2 +1,2 @@
 <?php
-header('Location: http://www.youtube.com/wmovienight');
+header('Location: https://www.youtube.com/user/wmovienight?sub_confirmation=1');
