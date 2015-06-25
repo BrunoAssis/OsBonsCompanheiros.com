@@ -1,2 +1,2 @@
 <?php
-header('Location: http://www.osbonscompanheiros.com/site');
+header('Location: http://www.osbonscompanheiros.com/youtube');
